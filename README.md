@@ -1,4 +1,4 @@
 # swissdigitalinfrastructure
-All kind of swiss digital infrastructure references
+Dieses Projekt ist derzeit eine Demo-Umgebung für das Aufsetzen eines Non-Code-Repositories für eine breite Partizipation.
 
-Over time, there might come together a nice collection of concepts, architectures, ideas and schemes what's going on in switzerland.
+Die darin abgebildeten Inhalte sind fiktiv und dienen der Veranschaulichung von Möglichkeiten in GitHub, einer Plattform, welche sich für viel mehr eignet als nur zum blossen Code-Versioning.
